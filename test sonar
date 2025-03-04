@@ -1,0 +1,1 @@
+sonar-scanner.bat -D"sonar.projectKey=Sample" -D"sonar.sources=." -D"sonar.host.url=http://localhost:9000" -D"sonar.token=sqp_02f5ab5fa2338b775d040952d9ee20a767814ace"
